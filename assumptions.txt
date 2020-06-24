@@ -1,0 +1,7 @@
+For the purposes of saving time and simplicity, I have made the following assumptions:
+
+1. There is an unlimited amounts of bank money
+2. There is no free parking money
+3. If a player has a get out of jail free card, it will be used automatically.
+4. When player is in jail and has greater than $200, then he will pay the $50 fee. Otherwise, he will have to roll doubles.
+5. A player cannot roll again after rolling doubles leaving jail under no circumstances.
