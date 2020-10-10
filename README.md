@@ -1,15 +1,8 @@
-![monopoly logo](monopoly.png "Monopoly Simulation")
-# Monopoly Simulation
-Performed 100-game 100-turn simulation of popular board game Monopoly to find most frequented properties.
+![title](images/1.png)
+![what I did](images/2.png)
+![total visits percentage](images/3.png)
+![visit percentage](images/4.png)
+![extra money accumulated](images/5.png)
+![takeaways](images/6.png)
+![future features](images/7.png)
 
-## Results
-![Visit Frequency by Percentage](graphs/percent.png)
-![Visit Frequency by Total Visits](graphs/totalVisits.png)
-
-## Future Features
-- Players Buy Properties
-  - Enforce rent, houses, and hotel payments
-
-- Add Auction functionality for properties passed by players
-
-- Track winners and losers of each game
