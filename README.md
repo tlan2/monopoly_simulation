@@ -1,6 +1,6 @@
 ![monopoly logo](monopoly.jpg "Monopoly Simulation")
 # Monopoly Simulation
-Performed 100-game 100-turn simulation of popular board game Monopoly to find most frequented properties
+Performed 100-game 100-turn simulation of popular board game Monopoly to find most frequented properties.
 
 ## Results
 ![Visit Frequency by Percentage](graphs/percent.png)
